@@ -1,0 +1,23 @@
+{
+  "usuarios": [
+    {
+      id : 1, 
+      userId : 1,
+      title : 'el miron palomero',
+      completed : 'nein'
+      
+    },
+    {
+    id : 2,
+    userId : 1, 
+    title : 'Dónde está la tubería señora?',
+    completed : 'ik'
+    },
+    {
+     id : 3, 
+     userId : 1,
+     title : 'cantor',
+     completed : 'oui'
+    },
+  ]
+}
